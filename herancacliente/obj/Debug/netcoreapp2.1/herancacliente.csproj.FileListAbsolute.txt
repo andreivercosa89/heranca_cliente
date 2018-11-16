@@ -1,0 +1,11 @@
+/Users/aluno/Projects/herancacliente/herancacliente/obj/Debug/netcoreapp2.1/herancacliente.csprojAssemblyReference.cache
+/Users/aluno/Projects/herancacliente/herancacliente/obj/Debug/netcoreapp2.1/herancacliente.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/herancacliente/herancacliente/obj/Debug/netcoreapp2.1/herancacliente.AssemblyInfoInputs.cache
+/Users/aluno/Projects/herancacliente/herancacliente/obj/Debug/netcoreapp2.1/herancacliente.AssemblyInfo.cs
+/Users/aluno/Projects/herancacliente/herancacliente/bin/Debug/netcoreapp2.1/herancacliente.deps.json
+/Users/aluno/Projects/herancacliente/herancacliente/bin/Debug/netcoreapp2.1/herancacliente.runtimeconfig.json
+/Users/aluno/Projects/herancacliente/herancacliente/bin/Debug/netcoreapp2.1/herancacliente.runtimeconfig.dev.json
+/Users/aluno/Projects/herancacliente/herancacliente/bin/Debug/netcoreapp2.1/herancacliente.dll
+/Users/aluno/Projects/herancacliente/herancacliente/bin/Debug/netcoreapp2.1/herancacliente.pdb
+/Users/aluno/Projects/herancacliente/herancacliente/obj/Debug/netcoreapp2.1/herancacliente.dll
+/Users/aluno/Projects/herancacliente/herancacliente/obj/Debug/netcoreapp2.1/herancacliente.pdb

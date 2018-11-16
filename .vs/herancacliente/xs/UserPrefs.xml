@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{932DF518-5730-4579-8E8A-D00E55B10B4F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="herancacliente/Program.cs">
+    <Files>
+      <File FileName="herancacliente/Program.cs" Line="9" Column="25" />
+      <File FileName="herancacliente/Cliente.cs" Line="2" Column="25" />
+      <File FileName="herancacliente/ClienteFisico.cs" Line="2" Column="25" />
+      <File FileName="herancacliente/ClienteJuridico.cs" Line="2" Column="25" />
+      <File FileName="herancacliente/Informacoes.cs" Line="2" Column="25" />
+      <File FileName="herancacliente/Bairro.cs" Line="2" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.herancacliente PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
